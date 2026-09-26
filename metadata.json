@@ -1,0 +1,6 @@
+{
+  "name": "ARS Creation – Premium Printing & Customization Studio",
+  "description": "Premium printing, customized products, personalized gifts, corporate branding, packaging, and promotional merchandise by ARS Creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
